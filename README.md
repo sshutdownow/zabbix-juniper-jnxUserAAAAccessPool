@@ -37,7 +37,7 @@ Installation
 
 Note
 ------------
-There are two predefined pools called **_DAP** and **_DAPV6**. It seems that they are used for clients with static IP addresses (Framed-IP-Address).
+There are two predefined pools called **_DAP** and **_DAPV6**. It seems that they are used for clients with static IP addresses assigned via Framed-IP-Address RADIUS attribute.
 
 ### Requirements
 
