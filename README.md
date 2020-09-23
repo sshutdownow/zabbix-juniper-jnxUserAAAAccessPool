@@ -2,7 +2,7 @@
 ZBX-JUNIPER-jnxUserAAAAccessPool
 ==============
 
-This template uses the SNMP to discover via LLD information about access pools inside routing instances on JunOS devices that are support JUNIPER-FIREWALL-MIB.
+This template uses the SNMP to discover via LLD information about access pools inside routing instances on JunOS devices that are support JUNIPER-USER-AAA-MIB.
 
 
 Items
